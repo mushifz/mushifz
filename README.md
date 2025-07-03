@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mushifz
 - 🔭 I’m currently learning networking infrastructure...
-- 🌱 Amo los gatos, el café y el código *~nya*  
+- 🌱 I love too much the coffe and the cats. 
 - 🎮 Fun fact: My favorite game is *Megaman X* 🌟  
 - 📫 How to reach me idk
-- @Kishimuz on Telegram
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: idk empanadas jksjksj
 - 👀 I’m interested in mapple leafs 🍁...
