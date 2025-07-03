@@ -6,7 +6,6 @@
 - @Kishimuz on Telegram
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: idk empanadas jksjksj
-- [HTML][C][JavaScript][Services web][Postman][MYSQL][SQL DEVELOPER]
 - 👀 I’m interested in mapple leafs 🍁...
   ![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFwZGRienQ5dG11cHc1ZGxmcHB5ejRlcXFkZjBuZXhsdGhiaTJxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aQRkFEywi4rUgo/giphy.gif)
 
